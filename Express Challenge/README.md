@@ -45,5 +45,5 @@ You may send any additional questions [here](josephscodes@gmail.com)!
 
 [GitHub Repo](https://github.com/codejoes/Express-Challenge)
 
-[Heroku](https://whispering-thicket-05279.herokuapp.com/)
+[Heroku App](https://whispering-thicket-05279.herokuapp.com/)
 ![Screenshot of Webpage](./public/assets/images/Screenshot%202023-02-03%20010516.png)
