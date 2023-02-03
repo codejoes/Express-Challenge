@@ -47,12 +47,7 @@ app.post('/api/notes', (req, res) => {
         };
 
         fs.readAndAppend(newNote, './db/db.json');
-        res.json('Successfully added note!');
-        
     }
-
-    
-    console.log('Successfully posted notes!');
 });
 
 
