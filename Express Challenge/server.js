@@ -46,7 +46,7 @@ app.post('/api/notes', (req, res) => {
             id: uuidv4(),
         };
 
-        fs.readAndAppend(newNote, './db/db.json');
+        res.json(fs.readAndAppend(newNote, './db/db.json'));
     }
 });
 
