@@ -14,6 +14,7 @@ This application allows users to create and delete notes from a json file.
 4. [Contributions](#contributions)
 5. [Tests](#tests)
 6. [Questions](#questions)
+7. [App](#app)
 
 ## Installation
 
@@ -40,7 +41,7 @@ N/A
 [My GitHub](https://github.com/codejoes)
 You may send any additional questions [here](josephscodes@gmail.com)!
 
-## Deployed App
+## App
 
 [Heroku](https://whispering-thicket-05279.herokuapp.com/)
 ![Screenshot of Webpage](./public/assets/images/Screenshot%202023-02-03%20010516.png)
